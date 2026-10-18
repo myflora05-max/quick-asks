@@ -1,0 +1,5 @@
+{
+  "name": "quick-asks",
+  "owner": { "name": "Hyunjoo" },
+  "plugins": [{ "name": "quick-asks", "source": "./" }]
+}
