@@ -13,7 +13,7 @@
 터미널 세션 입력창에서:
 
 ```
-/plugin install quick-asks --marketplace myflora05/quick-asks
+/plugin install quick-asks --marketplace myflora05-max/quick-asks
 ```
 
 `Add marketplace?`에 `y`, 범위는 user(맨 위)에서 Enter.
@@ -21,9 +21,9 @@
 셸에서:
 
 ```
-claude plugin install quick-asks --marketplace myflora05/quick-asks
+claude plugin install quick-asks --marketplace myflora05-max/quick-asks
 ```
 
-데스크톱 앱: 입력창 옆 + → Plugins → Add marketplace에 `myflora05/quick-asks` → Add plugin.
+데스크톱 앱: 입력창 옆 + → Plugins → Add marketplace에 `myflora05-max/quick-asks` → Add plugin.
 
 비공개 저장소라서, 설치하는 컴퓨터에 github.com 인증(SSH 키, 또는 `gh auth login` 후 `gh auth setup-git`)이 미리 있어야 한다.
